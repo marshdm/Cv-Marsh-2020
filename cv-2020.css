@@ -1,8 +1,15 @@
 .prenom
 {
-color: rgba(255,152,0 ,1);
+	color: rgba(255,152,0 ,1);
 }
 .souligne
 {
-text-decoration-color: rgba(255,152,0 ,1);	
+	text-decoration-color: rgba(255,152,0 ,1);	
+}
+.ligne
+{
+	background: transparent;
+	border-color: rgba(255,152,0 ,1);
+	border-width: 0 0 1px;
+	border-style: solid;
 }
